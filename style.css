@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(236, 247, 190);
+    border: solid;
+   
+}
+
+.bio{
+border: 2px solid black;
+margin: 50px;
+border-radius: 40px;
+background-color: aliceblue;
+}
+.nam{
+    border: 2px solid black;
+    margin: 50px;
+    border-radius: 30px;
+}
+ul,ol{
+    list-style-type: none;
+}
+.ski{
+    border: 2px solid black;
+    margin: 100px;
+}
+.col{
+    border: 2px solid black;
+    margin: 100px;
+}
+.int{
+    border: 2px solid black;
+    margin: 100px;
+}
+.add{
+    border: 2px solid black;
+    margin: 100px;
+}
